@@ -8,7 +8,7 @@ Este programa implementa, em C + +, um método numérico simples para aproximar 
 
 A ideia central é dividir o intervalo [a,b] em várias partes (retângulos) á partir do ponto médio, calcular a área de cada um e somar essas áreas para obter uma aproximação da integral. Vale lembrar que o “n” utilizado no código significa a quantidade de divisões feitas em retângulos - ou seja, quanto maior o “n”, maior a precisão do cálculo.
 
-O código foi feito sem o uso de funções externas personalizadas, apenas com o fluxo principal dentro da main, com o fito de facilitar o entendimento.
+O código foi feito sem o uso de funções externas personalizadas, apenas com o fluxo principal dentro da main, com o fito de facilitar o entendimento daqueles que tem pouco conhecimento acerca da linguagem.
 
 ---
 
